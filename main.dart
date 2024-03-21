@@ -1,5 +1,5 @@
 /*this is  a code showing use of different data types */
-
+/*
 
 
 void main() { 
@@ -13,4 +13,4 @@ void main() {
 
   print(service );
 
-}   
+}   */
